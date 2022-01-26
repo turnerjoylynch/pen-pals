@@ -1,0 +1,28 @@
+{
+    "author-list": [
+        {"id": 1, "name": "Pablo Neruda", "email": "lover@penpal.com"}, 
+        {"id": 2, "name": "Emily Dickinson", "email": "hugehomo@penpal.com"},
+        {"id": 3, "name": "bell hooks", "email": "bellhooks@penpal.com"},
+        {"id": 4, "name": "Joan Didion", "email": "nerds@penpal.com"},
+        {"id": 5, "name": "Nayyirah Waheed", "email": "nw@penpal.com"}
+        ],
+    
+    "recipient-list": [
+        {"id": 1, "name": "Jessica Day", "email": "jessicaday@penpal.com"}, 
+        {"id": 2, "name": "Nick Miller", "email": "michaelkeaton@penpal.com"},
+        {"id": 3, "name": "Winston Bishop", "email": "winnythebish@penpal.com"},
+        {"id": 4, "name": "'Shmidt' Winston Saint-Marie Schmidt", "email": "shmidtstheshit@penpal.com"},
+        {"id": 5, "name": "Cece Parekh", "email": "cece@penpal.com"}
+    ],
+    "submissions": [
+        {
+            "id": 1,
+            "author-choice": "Franchesca",
+            "recipient-choice": "Julie",
+            "tone": "Friendly",
+            "dateSent": "2022-03-09"
+        }
+        
+    ]
+}
+

@@ -1,0 +1,46 @@
+/* @import "src/styles/form.css"; */
+@import url("https://fonts.googleapis.com/css?family=Comfortaa|Patua+One");
+
+
+/*Typography
+--------------------------------------------------------------*/
+body,
+button,
+input,
+select,
+textarea {
+	color: #404040;
+	font-family: "Comfortaa", Arial, sans-serif;
+	font-size: 14px;
+	line-height: 1.5;
+}
+
+
+h1,h2,h3,h4,h5,h6 {
+  font-family: "Patua One", serif;
+  letter-spacing: 2px;
+}
+
+
+.letterBody, .author-choice, .recipient-choice, .tone, .dateSent, .submitLetter {
+    font-size: 16px;
+    font-weight: bold;
+  }
+
+
+/* haven't been able to make this work, wanted to create a resizable paragraph text form 
+
+text area {
+	resize: none;
+	}
+
+.letterBody {
+	Overflow: auto;
+	Resize: value;
+}
+
+#resize {
+	--resizable-width: 400px;
+	height: 150vh;
+	width: var(--resizable-width);
+	}	
